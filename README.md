@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Stoicly Quotes API & Chrome extension
+- 🌱 I’m currently learning Docker & Kubernetes
+- 💬 Ask me about Blockchain
+- 📫 How to reach me: Twitter! @thebenswift
+
 <!--
 **benswift404/benswift404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
