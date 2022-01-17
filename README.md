@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Stoicly Quotes API & Chrome extension
+- 🚀 I’m currently working on Stoicly Quotes API & Chrome extension
 - 🌱 I’m currently learning Svelte, Docker, & Kubernetes
 - 💬 Ask me about Blockchain
 - 📫 How to reach me: Twitter! @thebenswift
